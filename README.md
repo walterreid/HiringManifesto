@@ -1,7 +1,7 @@
 # The Candidate-Centric Hiring Manifesto
 
 > "If your hiring process doesn’t reflect your culture, it’s not a process problem. It’s a values problem."  
-> — Walter Reid
+>
 
 > "Company culture doesn’t begin after someone signs the offer. It starts the moment they open the job application."
 >
